@@ -17,5 +17,5 @@ AutoRec-Movielens is a recommender system built using autoencoders to predict us
 - Numpy
 
 ## Dataset
-The Movielens 100K dataset used in this project can be downloaded from the [GroupLens](http://files.grouplens.org/datasets/movielens/ml-100k.zip) website. This dataset includes user ratings, movie metadata, and demographic information about the users.
+The Movielens 100K dataset used in this project can be downloaded from the http://files.grouplens.org/datasets/movielens/ml-100k.zip website. This dataset includes user ratings, movie metadata, and demographic information about the users.
 
